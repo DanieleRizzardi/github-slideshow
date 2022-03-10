@@ -5,7 +5,7 @@ danCopia 2 commit
 =======
 dan
 <<<<<<< HEAD
-master 1 commit
+master 1 commi
 =======
 dan1 => 1 commit
 dan1 => 2 commit
